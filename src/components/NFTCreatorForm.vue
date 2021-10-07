@@ -385,7 +385,7 @@ export default {
         animation_url: undefined,
         creators: [
           new Creator({
-            address: new PublicKey(' '),
+            address: new PublicKey('                                         '),
             verified: false,
             share: 1,
           }),
