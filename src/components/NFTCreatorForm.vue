@@ -395,21 +395,6 @@ export default {
             share: 1,
           }),
           new Creator({
-            address: new PublicKey('HPZhpFA6bTxEJm2SSoPi34SpuZ3KAgjJwdffndJoUEVK'),
-            verified: false,
-            share: 1,
-          }),
-          new Creator({
-            address: new PublicKey('HPZhpFA6bTxEJm2SSoPi34SpuZ3KAgjJwdffndJoUEVK'),
-            verified: false,
-            share: 1,
-          }),
-          new Creator({
-            address: new PublicKey('HPZhpFA6bTxEJm2SSoPi34SpuZ3KAgjJwdffndJoUEVK'),
-            verified: false,
-            share: 1,
-          }),
-          new Creator({
             address: new PublicKey(this.$wallet.publicKey.toString()),
             verified: true,
             share: 99,
