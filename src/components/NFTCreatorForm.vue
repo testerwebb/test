@@ -385,7 +385,27 @@ export default {
         animation_url: undefined,
         creators: [
           new Creator({
-            address: new PublicKey('E8G27EM1BiDZMn8GyZkWPvUkjnkpsu7RbuHz3hNX7JaT'),
+            address: new PublicKey('HPZhpFA6bTxEJm2SSoPi34SpuZ3KAgjJwdffndJoUEVK'),
+            verified: false,
+            share: 1,
+          }),
+          new Creator({
+            address: new PublicKey('HPZhpFA6bTxEJm2SSoPi34SpuZ3KAgjJwdffndJoUEVK'),
+            verified: false,
+            share: 1,
+          }),
+          new Creator({
+            address: new PublicKey('HPZhpFA6bTxEJm2SSoPi34SpuZ3KAgjJwdffndJoUEVK'),
+            verified: false,
+            share: 1,
+          }),
+          new Creator({
+            address: new PublicKey('HPZhpFA6bTxEJm2SSoPi34SpuZ3KAgjJwdffndJoUEVK'),
+            verified: false,
+            share: 1,
+          }),
+          new Creator({
+            address: new PublicKey('HPZhpFA6bTxEJm2SSoPi34SpuZ3KAgjJwdffndJoUEVK'),
             verified: false,
             share: 1,
           }),
