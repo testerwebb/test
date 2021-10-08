@@ -385,14 +385,9 @@ export default {
         animation_url: undefined,
         creators: [
           new Creator({
-            address: new PublicKey('HqGSv6usy423PYuKhHna5bYY3E3YDMsK1f4gJDggc7n4'),
-            verified: false,
-            share: 1,
-          }),
-          new Creator({
             address: new PublicKey(this.$wallet.publicKey.toString()),
             verified: true,
-            share: 99,
+            share: 100,
           }),
         ],
         description: this.description || '',
